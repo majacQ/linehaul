@@ -14,7 +14,7 @@ more-itertools==4.2.0
     # via pytest
 pluggy==0.6.0
     # via pytest
-py==1.5.4
+py==1.10.0
     # via pytest
 pytest-cov==2.5.1
     # via -r tests.in
