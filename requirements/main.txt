@@ -36,7 +36,7 @@ packaging==17.1
     # via -r main.in
 pycparser==2.18
     # via cffi
-pyjwt==1.6.4
+pyjwt==2.4.0
     # via -r main.in
 pyparsing==2.2.0
     # via
