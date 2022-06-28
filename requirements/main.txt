@@ -1,4 +1,4 @@
-arrow==0.12.1
+arrow==0.15.1
     # via -r main.in
 asks==2.0.0
     # via -r main.in
