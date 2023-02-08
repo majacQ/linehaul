@@ -18,7 +18,7 @@ cffi==1.14.5
     # via cryptography
 click==6.7
     # via -r main.in
-cryptography==3.3.2
+cryptography==39.0.1
     # via -r main.in
 h11==0.8.1
     # via asks
@@ -46,7 +46,6 @@ python-dateutil==2.7.3
     # via arrow
 six==1.11.0
     # via
-    #   cryptography
     #   packaging
     #   python-dateutil
     #   tenacity
